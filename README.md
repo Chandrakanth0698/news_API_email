@@ -1,0 +1,1 @@
+# This app process news about particular topic and sends them by email.
